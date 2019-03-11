@@ -1,7 +1,7 @@
-# Mailspring Monokai
+# My Mailspring Theme
 
-This is the start of a theme for Mailspring that I intend to make similar to the Monokai theme for Textmate/Sublime/VSCode
+This is the current Mailspring Theme that I am using and tweaking.
 
 #### Progress
 
-Nothing as of yet
+Its blue.
